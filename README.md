@@ -5,7 +5,7 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "HTML", "CSS3", "REACT"],
+    code: ["Javascript", "Java", "HTML", "CSS3", "REACT"],
     askMeAbout: ["web dev", "tech", "app dev", "back-end"],
     technologies: {
         Frameworks: ["Spring", "Hibernate", "Maven", "Mockito"],
